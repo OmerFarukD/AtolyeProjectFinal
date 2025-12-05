@@ -13,3 +13,4 @@ for (int i = 0; i <brands.Length; i++)
 Console.WriteLine("Marka ve değerleri girildi.");
 
 Console.WriteLine("Selamlar");
+Console.WriteLine("Merhabalar");
