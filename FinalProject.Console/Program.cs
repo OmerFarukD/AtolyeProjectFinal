@@ -8,3 +8,6 @@ for (int i = 0; i <brands.Length; i++)
 {
     Console.WriteLine($"Marka Adı : {brands[i]}, Model Adı : {models[i]}, Günlük  Fiyatı : {dailyPrice[i]}  TL");
 }
+
+
+Console.WriteLine("Marka ve değerleri girildi.");
